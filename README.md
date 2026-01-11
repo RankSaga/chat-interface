@@ -141,5 +141,5 @@ This repository contains production-ready patterns. Contributions welcome!
 
 ## Related Resources
 
-- [Blog Post: Building Production-Grade Chat Interfaces](https://ranksaga.com/blog/chat-interface-best-practices)
-- [Original Implementation](https://github.com/RankSaga/ranksaga)
+- **[Blog Post: Building Production-Grade Chat Interfaces](https://ranksaga.com/blog/chat-interface-best-practices-streaming-blocks-coalescing)** - Comprehensive guide covering all techniques in detail with architecture diagrams and best practices
+- [Original Implementation](https://github.com/RankSaga/ranksaga) - Production system that inspired these patterns
