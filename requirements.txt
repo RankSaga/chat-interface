@@ -1,0 +1,12 @@
+# Chat Interface Best Practices - Python Dependencies
+
+# Core dependencies
+pydantic>=2.0.0
+httpx>=0.24.0
+
+# Optional dependencies for production use
+# asyncio (built-in)
+# json (built-in)
+# re (built-in)
+# time (built-in)
+# uuid (built-in)
